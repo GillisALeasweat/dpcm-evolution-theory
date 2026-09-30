@@ -1,0 +1,6 @@
+{
+  "name": "DPCM vs 既存進化論 学説比較分析システム",
+  "description": "多元的深層時間・必然的幾何学収束モデル（DPCM）と現代進化総合説・断続平衡説・中立説・構造主義・収斂説の多元的学説比較および生体力学・幾何学的アトラクター検証プラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
