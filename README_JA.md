@@ -3,6 +3,8 @@
 ### ――発生ツールキットの保存性と物理的アトラクターによる形態展開の統合理論――
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Webサイト-オンライン公開中-emerald.svg)](https://ais-pre-e6jperftk66cqlua6dhh6u-679014150043.asia-northeast1.run.app)
+[![Academic Debates](https://img.shields.io/badge/学術討論-DISCUSSION.md-purple.svg)](DISCUSSION.md)
 [![English Documentation](https://img.shields.io/badge/Docs-English-blue.svg)](README.md)
 
 本ドキュメントは日本語版の解説書です。英語版の完全なドキュメントは [README.md](README.md) をご覧ください。
@@ -13,6 +15,7 @@
 * **Repository Name（リポジトリ名）：** `dpcm-evolution-theory` *(または `deep-time-parallel-convergence-model`)*
 * **Description（説明文・About欄）：** 
   > *多元深層時間・必然的幾何学収束モデル (DPCM v2.0) ―― 発生ツールキットの保存性と物理的アトラクターによる形態展開の統合理論・学説比較分析プラットフォーム*
+* **Website URL（公開WebサイトURL）：** `https://ais-pre-e6jperftk66cqlua6dhh6u-679014150043.asia-northeast1.run.app`
 * **Topics（トピックス / タグ）：** 
   `evolutionary-biology`, `evo-devo`, `biomechanics`, `paleontology`, `theoretical-biology`, `complex-systems`, `morphogenesis`, `react`, `typescript`
 * **License（ライセンス）：** `MIT License`
@@ -48,6 +51,24 @@
 ### 4. 認識論的限界の解体（ゼロスタート神話の粉砕）
 * 始新世以前にクジラ祖先が化石記録に認識されないのは骨がなかったからではない。耳胞（インボルクラム）以前の骨格は未分化原始哺乳類と解剖学的に同定できないという**古生物学の認識論的限界（見つかっていないのではなく見分けがついていない）**である。
 * 陸上完成型が海に逃げて足を捨てて魚に戻る（可逆的進化物語）をドロの法則の生体力学に基づき粉砕。海洋化は水陸両用中立境界領域からの**「不可逆的二極展開」**。
+
+---
+
+## 💬 学術討論・想定反論への応答録（DISCUSSION.md）
+
+主流派の現代総合説、分子時計系統学、古生物学から予想される主要な批判・反論に対して、詳細な学術論証と反証可能命題をまとめた [**`DISCUSSION.md`**](DISCUSSION.md) を公開しています：
+1. **討論 1：Rocks vs. Clocks（分子時計の分岐年代 vs 中生代深層時間）**
+   * 緩和分子時計の線形平滑化バイアスと、非線形相転移ダイナミクスによる解決
+2. **討論 2：物理アトラクター先行説 vs 目的論（インテリジェント・デザイン等）**
+   * 流体力学（ナビエ・ストークス方程式）と幾何光学による厳密な物理主義的エネルギー最小化の証明
+3. **討論 3：ゼロスタート神話とインボルクラム以前の同定限界**
+   * 骨格アポモルフィ（診断形質）以前の祖先骨格が未分化原始哺乳類と識別不能である認識論的境界
+4. **討論 4：周縁隔離小集団における相転移の分子メカニズム**
+   * 極限ストレス下でのHsp90分子シャペロン解除、Waddingtonの遺伝的同化、*Shh* ZRSシス調節エンハンサー
+5. **討論 5：ドロの不可逆法則と水陸両用境界ニッチからの二極展開**
+   * 陸上特化型の巻き戻し進化物語の破棄と、境界ニッチからの不可逆的二極分岐
+
+*学術的な批判、数理モデルへの疑問、新たな化石・ゲノム証拠の提案は、本リポジトリの **GitHub Discussions** タブにて受けています。*
 
 ---
 

@@ -7,6 +7,8 @@
 [![Framework: React](https://img.shields.io/badge/React-19.0-61dafb.svg)](https://react.dev/)
 [![Build Tool: Vite](https://img.shields.io/badge/Vite-6.x-646cff.svg)](https://vitejs.dev/)
 [![Styling: Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-38bdf8.svg)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Platform-Online_Demo-emerald.svg)](https://ais-pre-e6jperftk66cqlua6dhh6u-679014150043.asia-northeast1.run.app)
+[![Academic Debates](https://img.shields.io/badge/Debates-DISCUSSION.md-purple.svg)](DISCUSSION.md)
 [![Documentation: Japanese](https://img.shields.io/badge/Docs-日本語版-lightgrey.svg)](README_JA.md)
 
 ---
@@ -15,6 +17,7 @@
 * **Repository Name:** `dpcm-evolution-theory` *(Alternative: `deep-time-parallel-convergence-model`)*
 * **Short Description:** 
   > *The Deep-Time Parallel Convergence Model (DPCM v2.0): An integrated evolutionary platform synthesizing Evo-Devo common toolkits, nonlinear phase transitions, and physical geometric attractors.*
+* **Website URL:** `https://ais-pre-e6jperftk66cqlua6dhh6u-679014150043.asia-northeast1.run.app`
 * **Repository Topics / Tags:** 
   `evolutionary-biology`, `evo-devo`, `biomechanics`, `paleontology`, `theoretical-biology`, `complex-systems`, `morphogenesis`, `react`, `typescript`
 * **License:** `MIT License`
@@ -97,6 +100,19 @@ Based on 6 objective scientific criteria (Biomechanical Consistency, Stasis Reso
    - Inverted pendulum energy recovery (75% metabolic savings) and neocortex metabolic investment in hominins.
 7. **Dialectical Synthesis (`DialecticalCritique`)**
    - Epistemological evaluation, resolving "Rocks vs. Clocks", and next-generation synthesis roadmap.
+
+---
+
+## 💬 Academic Discussions & Counter-Arguments
+
+A comprehensive philosophical and scientific debate addressing the top 5 orthodox counter-arguments has been published in [**`DISCUSSION.md`**](DISCUSSION.md):
+1. **Debate 1: Rocks vs. Clocks** (Resolving relaxed molecular clock node-dating discrepancies via nonlinear phase transitions)
+2. **Debate 2: Physical Attractors vs. Teleology** (Strict physical reductionism and Navier-Stokes energy minimization vs Intelligent Design)
+3. **Debate 3: Epistemological Diagnostic Horizon** (Skeletal apomorphies, the involucrum threshold, and stem-cetacean undiagnosability)
+4. **Debate 4: Molecular Mechanisms of Phase Transitions** (Hsp90 chaperone buffering release, Waddington's genetic assimilation, and *Shh* ZRS enhancers)
+5. **Debate 5: Dollo's Law & Bipolar Divergence** (Irreversible cladogenesis from amphibious ecotones vs backward adaptation myths)
+
+*To participate in discussions or submit empirical critiques, please visit the **GitHub Discussions** tab.*
 
 ---
 
